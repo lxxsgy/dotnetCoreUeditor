@@ -1,0 +1,8 @@
+D:\angular\aspnetcore\UEditorNetCore-master\UEditorNetCore\obj\Debug\netcoreapp2.1\UEditorNetCore.AssemblyInfoInputs.cache
+D:\angular\aspnetcore\UEditorNetCore-master\UEditorNetCore\obj\Debug\netcoreapp2.1\UEditorNetCore.AssemblyInfo.cs
+D:\angular\aspnetcore\UEditorNetCore-master\UEditorNetCore\obj\Debug\netcoreapp2.1\UEditorNetCore.csproj.CoreCompileInputs.cache
+D:\angular\aspnetcore\UEditorNetCore-master\UEditorNetCore\bin\Debug\netcoreapp2.1\UEditorNetCore.deps.json
+D:\angular\aspnetcore\UEditorNetCore-master\UEditorNetCore\bin\Debug\netcoreapp2.1\UEditorNetCore.dll
+D:\angular\aspnetcore\UEditorNetCore-master\UEditorNetCore\bin\Debug\netcoreapp2.1\UEditorNetCore.pdb
+D:\angular\aspnetcore\UEditorNetCore-master\UEditorNetCore\obj\Debug\netcoreapp2.1\UEditorNetCore.dll
+D:\angular\aspnetcore\UEditorNetCore-master\UEditorNetCore\obj\Debug\netcoreapp2.1\UEditorNetCore.pdb

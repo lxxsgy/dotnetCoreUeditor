@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCoreExample\\UEditorNetCoreExample.csproj": {}
+  },
+  "projects": {
+    "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCoreExample\\UEditorNetCoreExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCoreExample\\UEditorNetCoreExample.csproj",
+        "projectName": "UEditorNetCoreExample",
+        "projectPath": "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCoreExample\\UEditorNetCoreExample.csproj",
+        "packagesPath": "C:\\Users\\v-shigy\\.nuget\\packages\\",
+        "outputPath": "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCoreExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\v-shigy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCore\\UEditorNetCore.csproj": {
+                "projectPath": "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCore\\UEditorNetCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCore\\UEditorNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCore\\UEditorNetCore.csproj",
+        "projectName": "UEditorNetCore",
+        "projectPath": "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCore\\UEditorNetCore.csproj",
+        "packagesPath": "C:\\Users\\v-shigy\\.nuget\\packages\\",
+        "outputPath": "D:\\angular\\aspnetcore\\UEditorNetCore-master\\UEditorNetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\v-shigy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
